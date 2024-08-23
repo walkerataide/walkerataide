@@ -19,17 +19,17 @@ Here are some ideas to get you started:
 
 Passionate about technology, education, coffee and making a difference. 🌎📚💻
 
-Looking for challenging and rewarding opportunities to lead and contribute to high-performing teams. 🤝✨
+Looking for challenging and rewarding opportunities to contribute to high-performing teams. 🤝✨
 
 Expertise:
 
-Python: 🐍 Extensive experience with Python for back-end development, data analysis, machine learning, and more. Familiar with popular frameworks like Django and Flask.
+Python: 🐍 Experience with Python for back-end development, data analysis, machine learning, and more. Familiar with popular frameworks like Django and Flask.
 
 Software Engineering: 🏗️ Strong foundation in software development methodologies, object-oriented programming, design patterns, and testing.
 
 Education: 👨‍🏫 Proven ability to effectively teach and mentor developers, fostering a collaborative and inclusive learning environment.
 
-Leadership: 🏆 Experience leading and managing tech courses.
+Leadership: 🏆 Experience leading and managing tech and postgraduate courses.
 
 Technical Skills:
 
@@ -89,15 +89,15 @@ Specialty Coffee: ☕ A connoisseur of coffee, with a passion for exploring new 
 Education: 📚 Committed to lifelong learning and actively seeking opportunities to share knowledge and inspire others.
 
 Nature: 🌳 Appreciates the beauty and tranquility of nature, spending time outdoors for recreation and relaxation.
-
+<!--
 Github Repository:
 
 This repository showcases personal projects and contributions to open-source initiatives. You can find examples of code, documentation, and project descriptions.
-
+-->
 I am excited to explore new opportunities where I can leverage my expertise and passion to make a real impact. Let's connect! 🤝
 
 Contact:
 
-Email: walker.ataide@ifal.edu.br
+📫 Email: walker.ataide@ifal.edu.br
 
 LinkedIn: www.linkedin.com/in/walkerataide
