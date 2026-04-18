@@ -9,7 +9,7 @@ Engenheiro de Software com foco em **Arquitetura de Sistemas Assistidos por IA**
     * Desenvolvimento de geradores automáticos de itens pedagógicos e simulados 100% alinhados à **BNCC**.
 * **AI-Driven Development:** Especialista na otimização do SDLC (Software Development Life Cycle) utilizando **Claude Code** para acelerar o delivery e garantir a qualidade técnica da engenharia.
 * **Educação & Consultoria:** Professor no IFAL e consultor técnico, transformando teoria de Engenharia de Software em soluções escaláveis com LLMs.
-* * **Coordenação de Cursos Técnicos e Pós-Graduação** – Experiência em gestão acadêmica e curricular (2016-2026).
+* **Coordenação de Cursos Técnicos e Pós-Graduação** – Experiência em gestão acadêmica e curricular (2016-2026).
 
 ### 🛠️ Tech Stack & AI Ecosystem
 
